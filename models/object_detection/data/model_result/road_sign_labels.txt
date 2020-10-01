@@ -1,0 +1,8 @@
+0 Green Light
+1 Kecepatan 55
+2 Person
+3 Red Light
+4 Speed 55
+5 Speed 80
+6 Stop
+7 Person

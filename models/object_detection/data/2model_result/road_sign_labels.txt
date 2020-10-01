@@ -1,6 +1,0 @@
-0 Green Light
-1 Person
-2 Red Light
-3 Speed 55
-4 Speed 80
-5 Stop
